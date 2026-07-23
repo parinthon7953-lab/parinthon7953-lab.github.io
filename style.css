@@ -12,11 +12,9 @@ header {
   padding:20px 0;
   text-align: center;
 }
-
 header h1 {
   margin:0;
 }
-
 header p1 {
   margin: 5px 0 0;
 }
@@ -30,5 +28,23 @@ section {
 }
 h2 {
   color: #4CAF50;
+}
+.project {
+  margin-bottom: 20px;
+}
+.projrct h2 {
+  margin: 0 0 10px;
+  color: #333;
+}
+ul {
+  list-style-type: square;
+  paddimg-left: 20px;
+}
+footer { 
+  text-align: center;
+  padding: 10px 0;
+  background: #333;
+  coler: white;
+  margin-top: 20px;
 }
   
